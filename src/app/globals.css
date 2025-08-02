@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Hide scrollbar globally without affecting scroll functionality */
+
+/* For WebKit browsers (Chrome, Safari, Edge) */
+*::-webkit-scrollbar {
+    display: none;
+}
+
+/* For Firefox */
+* {
+    scrollbar-width: none;
+    /* hides scrollbar but keeps scroll functionality */
+}
+
+/* For IE, Edge Legacy */
+* {
+    -ms-overflow-style: none;
+}
