@@ -2,16 +2,6 @@
 
 A modern, responsive SaaS landing page built with Next.js, TypeScript, and Tailwind CSS. This template is designed for startups and SaaS products, featuring a clean UI, reusable components, and easy customization.
 
-## Table of Contents
-
-- [Features](#features)
-- [Folder Structure](#folder-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Customization](#customization)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 
 - Built with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/)
@@ -75,3 +65,4 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
