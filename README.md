@@ -1,6 +1,6 @@
 # Layers Editor Landing Page
 
-A modern, responsive SaaS landing page built with Next.js, TypeScript, and Tailwind CSS. This template is designed for startups and SaaS products, featuring a clean UI, reusable components, and easy customization.
+A modern, responsive SaaS landing page built for UI Editing MVP's. Designed, developed, and sold animated UI components for developers. Designed for startups and SaaS products.
 
 ## Features
 
@@ -65,4 +65,5 @@ Contributions are welcome! To contribute:
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
 
