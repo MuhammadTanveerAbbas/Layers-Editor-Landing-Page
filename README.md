@@ -1,4 +1,4 @@
-<h1 align="center">🎨 Layers Editor Landing Page</h1>
+<h1 align="center">Layers Editor Landing Page 🎨 </h1>
 <p align="center">
   <img src="https://i.postimg.cc/3NW2LC04/Layer-editor.png" alt="Layers Editor Preview" width="600" />
 </p>
@@ -100,3 +100,4 @@ graph TD
 Licensed under the [MIT License](LICENSE).
 
 ---
+
