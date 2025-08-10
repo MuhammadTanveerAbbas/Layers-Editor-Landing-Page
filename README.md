@@ -1,29 +1,44 @@
-# Layers Editor Landing Page
+<h1 align="center">🎨 Layers Editor Landing Page</h1>
+<p align="center">
+  <img src="https://i.postimg.cc/3NW2LC04/Layer-editor.png" alt="Layers Editor Preview" width="600" />
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+</p>
 
-A modern, responsive SaaS landing page built for UI Editing MVP's. Designed, developed, and sold animated UI components for developers. Designed for startups and SaaS products.
+---
 
-## Features
+A **modern, responsive SaaS landing page** built for **UI Editing MVPs** ✨.
+Designed, developed, and sold animated UI components for developers. Perfect for startups and SaaS products 🚀.
 
-- Built with [Next.js](https://nextjs.org/) and [TypeScript](https://www.typescriptlang.org/)
-- Styled with [Tailwind CSS](https://tailwindcss.com/)
-- Modular and reusable React components
-- Responsive design for all devices
-- Pre-built sections: Hero, Features, Integrations, FAQs, Call to Action, Footer, and more
-- Easy to customize assets and content
+---
 
-## Folder Structure
+## ✨ Features
 
-```
+* ⚡ **Next.js** + **TypeScript** for high performance and type safety
+* 🎨 **Tailwind CSS** for rapid styling
+* 🧩 Modular, reusable **React components**
+* 📱 Fully responsive for all devices
+* 📦 Pre-built sections: Hero, Features, Integrations, FAQs, Call to Action, Footer, and more
+* 🛠 Easy customization for content and assets
+
+---
+
+## 🗂 Folder Structure
+
+```plaintext
 src/
   app/                # Main app entry, global styles, layout, and pages
-  assets/images/       # Image assets and logos
-  components/          # Reusable UI components (Button, Avatar, FeatureCard, etc.)
-  sections/            # Page sections (Hero, Features, Integrations, etc.)
+  assets/images/      # Image assets and logos
+  components/         # Reusable UI components (Button, Avatar, FeatureCard, etc.)
+  sections/           # Page sections (Hero, Features, Integrations, etc.)
 ```
 
-## Installation
+---
 
-Clone the repository and install dependencies:
+## ⚙️ Installation
 
 ```bash
 git clone https://github.com/MuhammadTanveerAbbas/Layers-Editor-Landing-Page.git
@@ -33,9 +48,9 @@ npm install
 yarn install
 ```
 
-## Usage
+---
 
-To start the development server:
+## 🚀 Usage
 
 ```bash
 npm run dev
@@ -43,27 +58,45 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) to view the landing page in your browser.
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-## Customization
+---
 
-- Update images in `src/assets/images/`.
-- Edit content and sections in `src/sections/`.
-- Modify global styles in `src/app/globals.css`.
-- Adjust Tailwind config in `tailwind.config.ts`.
+## 🖼 Diagram
 
-## Contributing
+```mermaid
+graph TD
+  A[Landing Page] --> B[Hero Section]
+  A --> C[Features]
+  A --> D[Integrations]
+  A --> E[FAQs]
+  A --> F[Call to Action]
+  A --> G[Footer]
+```
 
-Contributions are welcome! To contribute:
+---
 
-1. Fork the repository
-2. Create a new branch (`git checkout -b feature/YourFeature`)
-3. Commit your changes (`git commit -m 'Add YourFeature'`)
-4. Push to your branch (`git push origin feature/YourFeature`)
-5. Open a Pull Request
+## 🎯 Customization
 
-## License
+* 🖼 Update images in `src/assets/images/`
+* ✏️ Edit content in `src/sections/`
+* 🎨 Change styles in `src/app/globals.css`
+* ⚡ Modify Tailwind settings in `tailwind.config.ts`
 
-This project is licensed under the [MIT License](LICENSE).
+---
 
+## 🤝 Contributing
 
+1. 🍴 Fork the repository
+2. 🌱 Create a new branch
+3. 💡 Commit your changes
+4. 📤 Push to your branch
+5. 🔄 Open a Pull Request
+
+---
+
+## 📜 License
+
+Licensed under the [MIT License](LICENSE).
+
+---
