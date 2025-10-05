@@ -1,6 +1,6 @@
 <div align="center">
 <img src="https://i.postimg.cc/3NW2LC04/Layer-editor.png" alt="Layers Editor Preview" width="600" />
-<h1 align="center">Layers Editor Landing Page 🎨</h1>
+<h1 align="center">Layers Editor 🎨 Landing Page 🌐</h1>
 <div align="center">
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js" height="40" alt="Next.js logo" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="40" alt="Tailwind CSS logo" />
@@ -66,3 +66,4 @@ Next.js • Tailwind CSS • TypeScript • React
 <div align="center">
 Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
 </div>
+
