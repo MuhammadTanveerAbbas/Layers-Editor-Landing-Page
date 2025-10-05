@@ -35,7 +35,12 @@ const faqs = [
 ];
 
 export default function Faqs() {
-  const [selectedIndex, setSelectedIndex] = useState(0);
+  const [selectedIndex, setSelectedIndex] = useState<number | null>(0);
+
+  const handleToggle = (index: number) => {
+    // Close if already selected, otherwise open
+    setSelectedIndex((prev) => (prev === index ? null : index));
+  };
 
   return (
     <section id="faqs" className="py-24">
@@ -52,7 +57,15 @@ export default function Faqs() {
           {faqs.map((faq, faqIndex) => (
             <div
               key={faq.question}
-              onClick={() => setSelectedIndex(faqIndex)}
+              onClick={() => handleToggle(faqIndex)}
+              role="button"
+              tabIndex={0}
+              onKeyDown={(e) => {
+                if (e.key === "Enter" || e.key === " ") {
+                  e.preventDefault();
+                  handleToggle(faqIndex);
+                }
+              }}
               className="rounded-2xl border border-white/10 bg-neutral-900 p-6 cursor-pointer"
             >
               <div className="flex items-start justify-between">

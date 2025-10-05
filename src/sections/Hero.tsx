@@ -94,7 +94,7 @@ export default function Hero() {
           </div>
         </div>
 
-        <h1 className="mt-6 text-center text-6xl font-medium md:text-7xl lg:text-8xl">
+        <h1 className="mt-6 text-center text-5xl sm:text-6xl md:text-7xl lg:text-8xl font-medium">
           Impactful design, created effortlessly
         </h1>
 

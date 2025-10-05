@@ -19,3 +19,12 @@
 * {
     -ms-overflow-style: none;
 }
+
+/* Small-screen type scale: reduce root font-size for better fit on small devices */
+@media (max-width: 767px) {
+
+    /* 15px base (93.75% of 16px) — reduces rem-based type slightly */
+    html {
+        font-size: 15px;
+    }
+}
