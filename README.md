@@ -59,12 +59,13 @@ A production ready landing page that:
 
 ### 🛠️ Technology Used
 
-Next.js • Tailwind CSS • TypeScript • React
+Next.js • Tailwind CSS • TypeScript
 
 ---
 
 <div align="center">
 Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
 </div>
+
 
 
