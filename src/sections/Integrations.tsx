@@ -55,7 +55,7 @@ export default function Integrations() {
 
             <p className="mt-4 text-lg text-white/50">
               Layers seamessly connects with your favourite tools and platforms.
-              It's easy to plug into any workflow and collaborate platforms.
+              It&apos;s easy to plug into any workflow and collaborate platforms.
             </p>
           </div>
           <div>

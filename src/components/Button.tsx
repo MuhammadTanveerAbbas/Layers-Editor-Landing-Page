@@ -1,4 +1,4 @@
-import React, { ButtonHTMLAttributes, HTMLAttributes } from "react";
+import React, { ButtonHTMLAttributes } from "react";
 import { cva } from "class-variance-authority";
 
 const classess = cva(

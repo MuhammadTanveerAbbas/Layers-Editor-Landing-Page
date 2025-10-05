@@ -99,7 +99,7 @@ export default function Hero() {
         </h1>
 
         <p className="mt-8 max-w-2xl mx-auto text-center text-xl text-white/50">
-          Design tool shouldn't slow you down. Create, prototype, and test with
+          Design tool shouldn&apos;t slow you down. Create, prototype, and test with
           ease.
         </p>
 
