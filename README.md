@@ -19,8 +19,8 @@ Designed, developed, and sold animated UI components for developers. Perfect for
 
 ### 💡 Why it is
 
-SaaS and product-based businesses require **visually stunning, performance-optimized, and easily customizable landing pages**.
-**Layers Editor** provides a ready to launch, high performance website structure for startups and UI-based tools.
+SaaS and product based businesses require **visually stunning, performance optimized, and easily customizable landing pages**.
+**Layers Editor** provides a ready to launch, high performance website structure for startups and UI based tools.
 
 ---
 
@@ -66,4 +66,5 @@ Next.js • Tailwind CSS • TypeScript • React
 <div align="center">
 Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
 </div>
+
 
