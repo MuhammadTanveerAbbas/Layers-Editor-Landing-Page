@@ -64,8 +64,9 @@ Next.js • Tailwind CSS • TypeScript
 ---
 
 <div align="center">
-Designed and Developed with 🧠 by **Muhammad Tanveer Abbas** 🌟
+Designed and Developed with 🧠 by Muhammad Tanveer Abbas 🌟
 </div>
+
 
 
 
