@@ -10,7 +10,7 @@
 
 ---
 
-### 🧠 What is it
+### 📍 What is it
 
 A **modern, responsive SaaS landing page** built for **UI Editing MVPs** ✨.
 Designed, developed, and sold animated UI components for developers. Perfect for startups and SaaS products 🚀.
