@@ -59,7 +59,7 @@ A production ready landing page that:
 
 ### 🛠️ Technology Used
 
-Next.js • Tailwind CSS • TypeScript
+Next js • Tailwind CSS • TypeScript
 
 ---
 
